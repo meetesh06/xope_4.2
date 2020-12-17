@@ -1,0 +1,15 @@
+// Generates first n values in the fibonacci series
+a=0.
+b=1.
+>"How many digits to generate in fibonacci series ? : ".
+Read c.|
+>"T(0): 0 1".|
+>"0 1".
+Loop(c)
+  d=a+b.
+  >" "+d.
+  a=b.
+  b=d.
+E
+>.|
+End

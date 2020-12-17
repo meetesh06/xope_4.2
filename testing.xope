@@ -1,0 +1,8 @@
+a=3.
+b=4+5.
+I(a==b)
+  >"a is equal to b".|
+EL
+  >"a is not equal to b".|
+E
+End

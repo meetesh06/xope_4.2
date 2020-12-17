@@ -1,0 +1,9 @@
+// Check if the number is even
+>"Enter a number: ".
+Read a.|
+I(a%2=0)
+	>"Entered number is even".|
+EL
+  >"Entered number is odd".|
+E
+End

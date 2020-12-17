@@ -1,0 +1,12 @@
+// Printing star pattern
+>"How many lines in the pattern? : ".
+Read a.|
+i=1.
+Loop(a)
+  Loop(i)
+    >"*".
+  E
+  i=i+1.
+  >.|
+E
+End

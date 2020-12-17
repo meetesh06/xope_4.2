@@ -1,0 +1,15 @@
+// Program to print greatest of three numbers
+>"Enter value for a: ".
+Read a.|
+>"Enter value for b: ".
+Read b.|
+>"Enter value for c: ".
+Read c.|
+If(a>b&a>c)
+  >"a is the greatest".|
+EL(b>a&b>c)
+  >"b is the greatest".|
+EL
+  >"c is the greatest".|
+E
+End

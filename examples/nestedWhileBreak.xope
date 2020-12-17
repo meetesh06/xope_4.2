@@ -1,0 +1,18 @@
+// Break in nested While Loop
+a=5.
+i=1.
+j=1.
+While(a>0)
+  j=i.
+  While(j>0)
+    >"*".
+    I(j>3)
+      C.
+    E
+    j=j-1.
+  E
+  >.|
+  i=i+1.
+  a=a-1.
+E
+End

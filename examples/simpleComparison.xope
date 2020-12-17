@@ -1,0 +1,9 @@
+// Simple Comparison
+Read a.
+Read b.
+I(a!=b)
+  >"a is not equal to b".|
+EL
+  >"a is equal to b".|
+E
+End

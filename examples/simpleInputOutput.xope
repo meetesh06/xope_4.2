@@ -1,0 +1,9 @@
+// Simple Input Output
+>"Sisir Friendly Programming".|
+>"Enter value for a: ".
+Read a.
+>"Enter value for b: ".
+Read b.|
+c=a+b.
+>"Sum of entered numbers is "+c.|
+End
