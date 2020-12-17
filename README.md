@@ -18,3 +18,9 @@ like printing multi digit numbers, etc.
 
 The code is heavily commented and should be easy to read and compile
 make sure to use a stable make release to compile the code.
+
+The language has support for shorthand, 
+like I instead of If and
+things like >./ , where ./ is a shorthand for newline which is given to the > print thingie.
+
+If there are any issues, contact meeteshmehta4@gmail.com
