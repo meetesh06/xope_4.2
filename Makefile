@@ -1,6 +1,6 @@
 IN=main.c base/core.c base/headers.c
 OUT=xope
-FLAGS=-Wall -Werror
+FLAGS=-Wall
 
 compile:
 	gcc -o $(OUT) $(IN) $(FLAGS)

@@ -14,6 +14,9 @@ newLine db 10\n\
 variables times 27 dq 0\n\
 printText times 200 db 0\n\
 \n\
+section .text\n\
+global _start\n\
+\n\
 _printRAX:\n\
 ; leaving other registers unmodified\n\
 push rbx\n\
@@ -118,9 +121,6 @@ mov rdx, 1\n\
 mov rsi, newLine\n\
 syscall\n\
 ret\n\
-\n\
-section .text\n\
-global _start\n\
 \n\
 _start:\n";
 
