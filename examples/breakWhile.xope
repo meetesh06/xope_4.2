@@ -5,7 +5,7 @@ Read a.|
 While(i<=100)
   >"Hello "+i.|
   i=i+1.
-  I(i=a)
+  I(i==a)
     Complete.
   E
 E

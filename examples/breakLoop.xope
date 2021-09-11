@@ -3,7 +3,7 @@ i=0.
 Loop(15)
   >"Hello".|
   i=i+1.
-  I(i=5)
+  I(i==5)
     Complete.
   E
 E

@@ -11,7 +11,7 @@ Loop(15)
   >.|
   i=i+1.
   j=i.
-  I(i=6)
+  I(i==6)
     Complete.
   E
 E
